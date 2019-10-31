@@ -1,0 +1,57 @@
+<pre>Array
+(
+    [0] => Array
+        (
+            [value] => Array
+                (
+                    [0] => Array
+                        (
+                            [value] => flatrate_flatrate
+                            [label] => Fixed
+                        )
+
+                )
+
+            [label] => Flat Rate
+        )
+
+    [1] => Array
+        (
+            [value] => Array
+                (
+                    [0] => Array
+                        (
+                            [value] => freeshipping_freeshipping
+                            [label] => Free
+                        )
+
+                )
+
+            [label] => Free Shipping
+        )
+
+    [2] => Array
+        (
+            [value] => Array
+                (
+                    [0] => Array
+                        (
+                            [value] => tablerate_bestway
+                            [label] => Table Rate
+                        )
+
+                )
+
+            [label] => Best Way
+        )
+
+    [3] => Array
+        (
+            [value] => Array
+                (
+                )
+
+            [label] => Best Way
+        )
+
+)
