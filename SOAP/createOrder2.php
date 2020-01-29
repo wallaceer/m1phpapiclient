@@ -156,7 +156,7 @@ print_r($resultPaymentMethods);
 
 
 // set payment method
-$paymentMethodString= "banktransfer";
+$paymentMethodString= "banktransfer"; //checkmo
 echo "\nPayment method $paymentMethodString.";
 $paymentMethod = array(
     "method" => $paymentMethodString
